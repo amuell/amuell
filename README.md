@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alaric Müller @amuell
 - 👀 I’m interested in Actuarial science
 - 🌱 I’m currently working on phase-type distributions
-- 📫 How to reach me: alaric.mueller@unil.ch
+- 📫 How to reach me: alaric.muller.1@unil.ch
 
 <!---
 amuell/amuell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
